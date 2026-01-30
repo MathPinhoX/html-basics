@@ -3,7 +3,7 @@
     <body>
         <h1>Link Tree - Meu Primeiro Projeto HTML</h1>
         <h2>Bem-vindo ao meu Link Tree!</h2>
-        <p><h4>Aqui estão alguns dos meus links favoritos:</h4></p>
+        <p><h4>Aqui estão alguns dos meus links:</h4></p>
         <ul>
             <li><a href="https://www.instagram.com/matheuspinho2024" target="_blank">Instagram</a></li>
             <li><a href="https://www.youtube.com" target="_blank">YouTube</a></li>
